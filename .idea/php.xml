@@ -44,9 +44,48 @@
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/composer" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/mixed_vinyl/vendor/symfony/cache-contracts" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>
